@@ -12,7 +12,6 @@
     <item
         android:id="@+id/itemBlue"
         android:title="배경색(파랑)"/>
-
     <item
         android:title="버튼 변경">
 
